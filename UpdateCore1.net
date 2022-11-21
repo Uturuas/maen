@@ -1,28 +1,28 @@
-echo"Checking Update...*
+echo "Checking Update...*
 sleep 3.0
-echo"Update Available!"
-echo"Please Wait, We Choose And Search Update*
+echo "Update Available!"
+echo "Please Wait, We Choose And Search Update*
 sleep 5.0
 clear
-apt insta figlet
+apt install figlet
 clear
-figlet"Welcome!"
-echo"Update For BlueSyncX"
+figlet "Welcome!"
+echo "Update For BlueSyncX"
 echo
 echo
 echo
-echo"Available Update 1.1"
+echo "Available Update 1.1"
 echo
-echo"This BlueSyncX Version: 1.0"
+echo "This BlueSyncX Version: 1.0"
 echo
 echo
-echo"File Update: 9,7kb"
+echo "File Update: 9,7kb"
 echo
-echo"This Not Deleted Old Files!"
+echo "This Not Deleted Old Files!"
 echo
-echo"Type Yes For Continue"
-echo"Type No For Go Menu"
-echo"Type Option For Search Other Update"
+echo "Type Yes For Continue"
+echo "Type No For Go Menu"
+echo "Type Option For Search Other Update"
 read -p "Are You Want Update? : " Upd
 
 if [ $Upd == Yes ]
