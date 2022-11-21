@@ -1,7 +1,7 @@
 echo "Checking Update...*
 sleep 3.0
 echo "Update Available!"
-echo "Please Wait, We Choose And Search Update*
+echo "Please Wait, We Choose And Search Update"
 sleep 5.0
 clear
 apt install figlet
