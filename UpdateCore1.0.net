@@ -16,5 +16,6 @@ echo "Old BlueSyncX cache files are not deleted!"
 echo
 echo "Type Yes For Continue"
 echo "Type No For Go Menu"
-echo "Type Option For Search Other Update"
+echo "Type Option For Search Other Or Beta Update!"
+echo
 sh UpdOp
