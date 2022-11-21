@@ -17,9 +17,4 @@ echo
 echo "Type Yes For Continue"
 echo "Type No For Go Menu"
 echo "Type Option For Search Other Update"
-read -p "Are You Want Update? : " Upd
-
-if [ $Upd = Yes ] || [ $Upd = Yes]
-then
-figlet "test"
-fi
+sh UpdOp
