@@ -1,4 +1,4 @@
-echo "Checking Update...*
+echo "Checking Update..."
 sleep 3.0
 echo "Update Available!"
 echo "Please Wait, We Choose And Search Update"
