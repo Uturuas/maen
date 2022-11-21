@@ -18,7 +18,7 @@ echo
 echo
 echo "File Update: 9,7kb"
 echo
-echo "This Not Deleted Old Files!"
+echo "Old BlueSyncX cache files are not deleted!"
 echo
 echo "Type Yes For Continue"
 echo "Type No For Go Menu"
