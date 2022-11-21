@@ -25,7 +25,7 @@ echo "Type No For Go Menu"
 echo "Type Option For Search Other Update"
 read -p "Are You Want Update? : " Upd
 
-if [ $Upd == Yes ]
+if [ $Upd = Yes ]
 then
 figlet"test"
 fi
