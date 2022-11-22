@@ -18,4 +18,4 @@ echo "Type Yes For Continue"
 echo "Type No For Go Menu"
 echo "Type Option For Search Other Or Beta Update!"
 echo
-bash /data/data/com.termux/files/home/BlueSyncXUpdate/resour
+bash /data/data/com.termux/files/home/BlueSyncXUpdate/resource/UpOp.addon
