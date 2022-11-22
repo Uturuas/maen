@@ -1,5 +1,6 @@
 figlet "No Update Available"
 echo "No Available!"
+sh NoAvUpdOp
 exit
 logout
 break
