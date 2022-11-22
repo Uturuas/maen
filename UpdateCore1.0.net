@@ -1,3 +1,21 @@
-figlet "No Update Available"
-echo "No Available!"
-bash addonNoAvUpdOp
+apt install figlet
+clear
+figlet "Welcome!"
+echo "Update For BlueSyncX"
+echo
+echo
+echo
+echo "Available Update 1.1"
+echo
+echo "This BlueSyncX Version: 1.0"
+echo
+echo
+echo "File Update: 9,7kb"
+echo
+echo "Old BlueSyncX cache files are not deleted!"
+echo
+echo "Type Yes For Continue"
+echo "Type No For Go Menu"
+echo "Type Option For Search Other Or Beta Update!"
+echo
+bash resource/UpdOp.addon
