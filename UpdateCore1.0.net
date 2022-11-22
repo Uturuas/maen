@@ -1,4 +1,5 @@
 figlet "No Update Available"
 echo "No Available!"
-break
 exit
+logout
+break
